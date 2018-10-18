@@ -38,5 +38,5 @@ def create_supper_user(name, password):
     print('管理员创建成功')
 
 if __name__ == '__main__':
-    # print(app.url_map)
+    print(app.url_map)
     manage.run()
