@@ -1,0 +1,5 @@
+.idea/
+*.py[cop]
+logs/
+migrations/
+.qiniu_pythonsdk_hostscache.json
